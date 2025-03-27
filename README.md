@@ -1,4 +1,4 @@
-![Mi Foto de Perfil](https://github.com/tuusuario/tuimagen.png)
+![Mi foto de perfil](downloads/unnamed.png)
 
 
 # ¡Hola, soy Juanmy! 👋  
