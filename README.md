@@ -1,4 +1,5 @@
-![Mi Foto de Perfil]
+![Mi Foto de Perfil]([https://github.com/tuusuario/tuimagen.png](https://github.com/account))
+
 # ¡Hola, soy Juanmy! 👋  
 
 Bienvenido a mi repositorio de presentación. Aquí puedes conocer más sobre mí, mis proyectos y cómo contactarme.  
