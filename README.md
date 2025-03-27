@@ -1,16 +1,19 @@
-## Hola caracola 👋
+![Mi Foto de Perfil]
+# ¡Hola, soy Juanmy! 👋  
 
-<!--
-**JuanmyG/JuanmyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi repositorio de presentación. Aquí puedes conocer más sobre mí, mis proyectos y cómo contactarme.  
 
-Here are some ideas to get you started:
+## 📌 Sobre mí  
+- 🎯 Soy Animador y Texturizador de modelos 3D.  
+- 🚀 Me apasiona jugar y hacer animaciones.  
+- 💡 Actualmente estoy aprendiendo Animación 3D y entornos interactivos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas   
+- 🛠️ Herramientas: `Maya`, `Blender`, `Paquete de Adobe`  
+
+## 📂 Proyectos destacados  
+🔹 [Proyecto 1](https://github.com/tuusuario/proyecto1) - Breve descripción.  
+🔹 [Proyecto 2](https://github.com/tuusuario/proyecto2) - Breve descripción.  
+
+## 📫 Contacto  
+📧 Email: juanmiguelgr257@gmail.com 
