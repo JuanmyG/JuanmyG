@@ -1,4 +1,4 @@
-![Mi foto de perfil](C:\Users\alumno\Downloads/unnamed.png)
+![Mi Foto de Perfil](https://github.com/JuanmyG/JuanmyG/blob/main/unnamed.png?raw=true)
 
 
 # ¡Hola, soy Juanmy! 👋  
