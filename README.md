@@ -1,4 +1,4 @@
-([https://github.com/tuusuario/tuimagen.png](https://github.com/account))
+!([https://github.com/tuusuario/tuimagen.png](https://github.com/account))
 
 # ¡Hola, soy Juanmy! 👋  
 
