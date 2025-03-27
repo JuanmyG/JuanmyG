@@ -1,4 +1,4 @@
-![Mi foto de perfil](descargas/unnamed.png)
+![Mi foto de perfil](C:\Users\alumno\Downloads/unnamed.png)
 
 
 # ¡Hola, soy Juanmy! 👋  
